@@ -1,5 +1,7 @@
 # Real Time Ats Score Checker Using Gemini
 
+Analysis the Resume and check the ats score also chat with the bot about your resume
+
 #### How to run
 - clone the Project
 - SetUp the .env File and place the gemini api key
