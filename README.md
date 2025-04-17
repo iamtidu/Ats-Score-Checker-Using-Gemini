@@ -14,6 +14,6 @@ Analysis the Resume and check the ats score also chat with the bot about your re
 - pymupdf - Extract Word from the pdf
 ## Outputs
 
-![img1](screenShots/page1.png)
-![img1](screenShots/page2.png)
-![img1](screenShots/page3.png)
+![img1](ScreenShots/page1.png)
+![img1](ScreenShots/page2.png)
+![img1](ScreenShots/page3.png)
